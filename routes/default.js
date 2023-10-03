@@ -6,16 +6,4 @@ router.get('/', (req, res) => {
   res.send(someHTML);
 });
 
-router.post('/users', (req, res) => {
-  return res.send('Hello default user!');
-});
-
-router.put('/users/:id', (req, res) => {
-  // Update a user
-});
-
-router.delete('/users/:id', (req, res) => {
-  // Delete a user
-});
-
 module.exports = router;

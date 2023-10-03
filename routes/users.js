@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router(); 
-// const cors = require('cors')
-// app.use(express.cors());
+
 
 router.get('/', (req, res) => {
     let userData = {
