@@ -2,7 +2,7 @@
 
 <p align="center">A simple backend service built with Express.Js</p>
 
-## Feature roadmap
+### Feature roadmap
 
 Several features are considered **must-haves** for a well-rounded backend application, regardless of its specific purpose. Here are some key ones:
 
